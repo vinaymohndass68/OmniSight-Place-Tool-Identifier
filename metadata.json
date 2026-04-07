@@ -1,0 +1,7 @@
+{
+  "name": "OmniSight: Place & Tool Identifier",
+  "description": "An intelligent application that identifies professional tools and equipment found in specific locations either via text search or visual analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
